@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 I'm editing this file for the first time
-=======
->>>>>>> 4d0a3002762eb8bce44c7ab57c88da924cec2913
-
